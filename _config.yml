@@ -1,0 +1,28 @@
+name: frykman
+favicon: null
+layout_spectrum: 0.29175542457960546
+typography_spectrum: 0.369097271701321
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.860395569819957
+  lightness: 0.7904364205896854
+  saturation: 0.7940190273802727
+  rhythmicContrast: 0.15190831758081913
+purpose: []
